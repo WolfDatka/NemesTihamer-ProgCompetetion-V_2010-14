@@ -1,0 +1,8 @@
+# Extensions
+*.sln
+*.vcxproj
+*.user
+*.filters
+
+# Dirs
+.vs
