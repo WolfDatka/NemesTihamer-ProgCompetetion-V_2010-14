@@ -9,8 +9,8 @@ workspace "NemesTihamer-ProgCompetetion-V_2010-14"
 
 outputDir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
-project "Page21"
-    location "Page21"
+project "Page21-Task1"
+    location "Page21-Task1"
     kind "ConsoleApp"
     language "C++"
 
@@ -32,9 +32,18 @@ project "Page21"
 
     filter "configurations:Debug"
         symbols "On"
+        defines {
+            "DEBUG",
+        }
 
     filter "configurations:FastDebug"
         optimize "On"
+        defines {
+            "FAST_DEBUG",
+        }
 
     filter "configurations:Release"
         optimize "On"
+        defines {
+            "RELEASE",
+        }
