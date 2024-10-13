@@ -15,3 +15,6 @@
 
 ## Task 1 (Page 21):
 <p>Enter the resolution of the picture, than enter the picture data.</p>
+
+## Task 2 (Page 22):
+<p>Enter the general info(, than nothing'll be printed), than input the gamepieces' info just like in the example.</p>
