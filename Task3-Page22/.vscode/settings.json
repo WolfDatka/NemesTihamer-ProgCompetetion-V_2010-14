@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/Bin": true,
+        "**/Obj": true,
+        "**/.vs": true,
+        "**/*.vcxproj": true,
+        "**/*.vcxproj.user": true,
+        "**/*.vcxproj.filters": true,
+        "**/*.sln": true,
+    }
+}
