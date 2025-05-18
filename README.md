@@ -2,10 +2,10 @@
 
 ## How to use:
 ### Plug-and-play:
-<p>Just download the exe you want from the releases (if I forget I may not upload linux executable, but if you're using linux and can't self-comple, what are you even doing on linux?).</p>
+<p>Just download the exe you want from the releases. The other option is to self-compile.</p>
 
 ### Self-compiling:
-<p>Clone the repo, doubleclick on the PreMake.bat to generate platform-specific workspace/solution, than you do what you want.</p>
+<p>Clone the repo, doubleclick on the PreMake.bat to generate platform-specific workspace/solution.</p>
 <p>There are 3 configurations set up.</p>
 
 <hr>
